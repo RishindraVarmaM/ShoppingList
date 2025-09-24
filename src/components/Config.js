@@ -1,6 +1,6 @@
 const Config = 
 {
-    "url":"http://localhost:4000"
+    "url":"http://localhost:2030/shoppinglistapi"
 }
 
 export default Config
